@@ -244,3 +244,42 @@ Référence : [Boundary Kubernetes Tutorial](https://developer.hashicorp.com/bou
 - [ ] Vault est configuré pour gérer les secrets Kubernetes
 - [ ] L'accès au cluster minikube est contrôlé par Boundary
 - [ ] Les politiques d'accès sont correctement définies
+
+## Objectifs pédagogiques
+
+### Savoir
+
+- [ ] Je sais en quoi consiste un pentest
+- [ ] Je sais distinguer pentest black box ou white box
+- [ ] Je connais les tâches de la blue team
+- [ ] Je connais les tâches de la red team
+- [ ] Je sais ce qu’est un bug bounty
+- [ ] Je sais ce qu’est l’OWASP
+- [ ] Je connais les catégories de sévérité
+- [ ] Je connais au moins 5 phases MITRE ATT&CK
+- [ ] Je connais les ressources à disposition pour l’analyse d’une intrusion
+- [ ] Je sais ce qu’est un SIEM
+- [ ] Je sais ce qu’est un SOC
+- [ ] Je connais le rôle d’un WAF
+- [ ] Je sais expliquer le fonctionnement d’un WAF
+- [ ] Je sais expliquer le fonctionnement mTLS
+- [ ] Je connais le TOP10 OWASP
+- [ ] Je sais expliquer le Least priviliedge
+- [ ] Je comprends le besoin de fédération d’identité
+- [ ] Je comprends le fonctionnement d’external secret
+- [ ] Je comprends la sécurité réseau dans le cloud
+
+### Savoir-faire
+
+- [ ] Je sais mettre en place une network policy
+- [ ] Je sais lire une CVE
+- [ ] Je sais rédiger une matrice de risques
+- [ ] Je sais faire un scan de vulnérabilité
+- [ ] Je sais qualifier une faille
+- [ ] Je sais construire un lab d’attaque
+- [ ] Je sais exploiter une vulnérabilité
+- [ ] Je sais écrire une règle WAF
+- [ ] Je sais déployer un WAF
+- [ ] Je sais déployer un IDS
+- [ ] Je sais utiliser external secret pour récupérer 1 secret
+- [ ] Je sais signer une image docker
